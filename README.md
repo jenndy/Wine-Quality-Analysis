@@ -1,2 +1,2 @@
-# CIS242Project
-CIS242Project
+# Wine Quality Analysis
+Wine Quality Analysis
